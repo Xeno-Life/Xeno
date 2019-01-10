@@ -14,6 +14,10 @@ Meta-search allows for the possibility for users to enter and understand multipl
 
 # How
 
+## Methodologies
+
+Agile Development
+
 ## Features 
 
 ### 1
