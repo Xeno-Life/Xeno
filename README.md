@@ -15,7 +15,7 @@ Meta-search allows for the possibility for users to enter and understand multipl
 
 ## The Back-End
 
-Build using Django
+Built using Python and Django
 
 ## Technologies
 
