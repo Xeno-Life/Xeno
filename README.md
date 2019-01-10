@@ -11,7 +11,10 @@ Build using Django
 
 ## Technologies
 
-
+  1. Django
+  2. Nutch
+  3. ElasticSearch
+  4. Kibana
 
 ## Features 
 
