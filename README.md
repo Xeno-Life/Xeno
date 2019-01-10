@@ -40,10 +40,15 @@ Built using Python and Django
 
 ## Technologies
 
-  1. Django
-  2. Nutch
-  3. ElasticSearch
-  4. Kibana
+### The Back-End
+
+  1. Python and Django
+
+### The Front-End
+
+  1. Nutch
+  2. ElasticSearch
+  3. Kibana
 
 
 
