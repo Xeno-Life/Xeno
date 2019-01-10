@@ -16,7 +16,7 @@ Meta-search allows for the possibility for users to enter and understand multipl
 
 ## Methodologies
 
-Agile Development
+Agile Development and TDD
 
 ## Features 
 
