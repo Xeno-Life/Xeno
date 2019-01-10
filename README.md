@@ -8,14 +8,13 @@ Algorithmic transparency is necessary to elucidate the methodologies that are us
   
 Meta-search allows for the possibility for users to enter and understand multiple different types of filter bubbles.  If users can move freely from a right-wing filter bubble to a left-wing one then they can understand the larger picture of the flow of information online, which hopefully will lead to greater empathy and understanding between different people.
 
+## The Back-End
+
+Built using Python and Django
 
 ## The Front-End
 
 
-
-## The Back-End
-
-Built using Python and Django
 
 ## Technologies
 
