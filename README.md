@@ -1,6 +1,4 @@
 # Xeno
-
-Xeno is a meta-search engine inspired by Google designed to burst filter bubbles.  
   
 Algorithms control the information we consume in our digital lives.  From personalized search to tailored news feeds to targeted ads, the informational filter bubble in which we all exist is ever-present, and it has already brought about devastating societal consequences.  The term filter bubble was coined by Internet activist Eli Pariser in 2010 and it has only become more and more relevant with time.  How can we empower people to understand the very nature of the bubbles in which they exist and to navigate information space in a free and unconstrained way?  Our answer lies in a combination of algorithmic transparency and meta-search.  
   
