@@ -22,6 +22,25 @@ Meta-search allows for the possibility for users to enter and understand multipl
 
 ### TDD
 
+## Technologies
+
+### The Back-End
+
+  1. Python and Django
+
+### The Front-End
+
+  1. Nutch
+  2. ElasticSearch
+  3. Kibana
+  4. Javascript
+  5. React
+  6. Redux
+  7. HTML5
+  8. CSS3
+
+
+
 ## Features 
 
 ### 1
@@ -37,18 +56,4 @@ Meta-search allows for the possibility for users to enter and understand multipl
 
 
 ### 5
-
-## Technologies
-
-### The Back-End
-
-  1. Python and Django
-
-### The Front-End
-
-  1. Nutch
-  2. ElasticSearch
-  3. Kibana
-
-
 
