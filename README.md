@@ -30,14 +30,6 @@ Meta-search allows for the possibility for users to enter and understand multipl
 
 # How
 
-## The Back-End
-
-Built using Python and Django
-
-## The Front-End
-
-
-
 ## Technologies
 
 ### The Back-End
