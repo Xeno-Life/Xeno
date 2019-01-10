@@ -23,17 +23,21 @@ Meta-search allows for the possibility for users to enter and understand multipl
 ### TDD
 
 ## Technologies
+  
+Hosted on Heroku
 
 ### The Back-End
 
-  1. Python and Django
+  1. Python
+  2. Django
+  3. ElasticSearch
+  4. PostgreSQL
 
 ### The Front-End
 
   1. Nutch
-  2. ElasticSearch
   3. Kibana
-  4. Javascript
+  4. JavaScript
   5. React
   6. Redux
   7. HTML5
