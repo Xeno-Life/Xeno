@@ -49,7 +49,15 @@ Hosted on Heroku
 
 ![Xeno Splash](https://github.com/Xeno-Life/Xeno/blob/master/Design%20Assets/Artboard%201.png)
 
-#### 1
+#### Straight to Search
+
+#### Search Profile Net
+
+#### Neutral Search
+
+#### Random Profile Search
+
+#### I'm Feeling Curious Button
 
 ### Search Profile Vector Map
 
