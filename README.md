@@ -35,9 +35,9 @@ Hosted on Heroku
 
 ### The Front-End
 
-  1. Kibana
-  2. Javascript/React
-  3. Javascript/Redux
+  1. DJavaScript/3
+  2. JavaScript/React
+  3. JavaScript/Redux
   4. HTML5
   5. CSS3
 
