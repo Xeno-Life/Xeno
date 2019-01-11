@@ -55,7 +55,7 @@ Hosted on Heroku
 
 ### 3
 
-![Xeno Search Results](https://github.com/Xeno-Life/Xeno/blob/master/Design%20Assets/Artboard%203.png)
+![Xeno Search Results](https://github.com/Xeno-Life/Xeno/blob/master/Design%20Assets/artArtboard%203.png)
 
 ### 4
 
