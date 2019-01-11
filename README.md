@@ -49,6 +49,8 @@ Hosted on Heroku
 
 ![Xeno Splash](https://github.com/Xeno-Life/Xeno/blob/master/Design%20Assets/Artboard%201.png)
 
+#### Settings
+
 #### Straight to Search
 
 #### Search Profile Net
@@ -61,7 +63,15 @@ Hosted on Heroku
 
 ### Search Profile Vector Map
 
-![Xeno Search Results](https://github.com/Xeno-Life/Xeno/blob/master/Design%20Assets/artArtboard%202.png)
+![Xeno Search Results](https://github.com/Xeno-Life/Xeno/blob/master/Design%20Assets/Artboard%202.png)
+
+#### Vector Map
+
+#### Preview on Hover
+
+#### Favorite Search Profile
+
+#### Search Profile Information
 
 ### Search Results Page
 
