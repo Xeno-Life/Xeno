@@ -69,7 +69,7 @@ Hosted on Heroku
 
 #### Preview on Hover
 
-#### Favorite Search Profile
+#### Search Profile Favoriting
 
 #### Search Profile Information
 
