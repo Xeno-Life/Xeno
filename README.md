@@ -28,18 +28,18 @@ Hosted on Heroku
 
 ### The Back-End
 
-  1. Python/Django
-  2. ElasticSearch
-  3. PostgreSQL
+  1. Ruby on Rails
+  2. Ruby/Arachnid2
+  3. ElasticSearch
+  4. PostgreSQL
 
 ### The Front-End
 
-  1. Ruby/Arachnid2
-  2. Kibana
-  4. Javascript/React
-  5. Javascript/Redux
-  6. HTML5
-  7. CSS3
+  1. Kibana
+  2. Javascript/React
+  3. Javascript/Redux
+  4. HTML5
+  5. CSS3
 
 
 
