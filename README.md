@@ -45,15 +45,13 @@ Hosted on Heroku
 
 ## Features
 
-### 1
+### Splash Page
 
 ![Xeno Splash](https://github.com/Xeno-Life/Xeno/blob/master/Design%20Assets/Artboard%201.png)
 
-### 2
+#### 1
 
-![Xeno Vector Map](https://github.com/Xeno-Life/Xeno/blob/master/Design%20Assets/Artboard%202.png)
-
-### 3
+### Search Profile Vector Map
 
 ![Xeno Search Results](https://github.com/Xeno-Life/Xeno/blob/master/Design%20Assets/artArtboard%203.png)
 
