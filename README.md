@@ -77,7 +77,6 @@ Hosted on Heroku
 
 ![Xeno Search Results](https://github.com/Xeno-Life/Xeno/blob/master/Design%20Assets/artArtboard%203.png)
 
-### 4
+#### P-Score
 
-
-### 5
+#### Natural Language Algorithm Explanation
