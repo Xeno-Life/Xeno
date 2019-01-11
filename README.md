@@ -53,6 +53,10 @@ Hosted on Heroku
 
 ### Search Profile Vector Map
 
+![Xeno Search Results](https://github.com/Xeno-Life/Xeno/blob/master/Design%20Assets/artArtboard%202.png)
+
+### Search Results Page
+
 ![Xeno Search Results](https://github.com/Xeno-Life/Xeno/blob/master/Design%20Assets/artArtboard%203.png)
 
 ### 4
