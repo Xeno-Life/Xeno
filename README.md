@@ -43,8 +43,6 @@ Hosted on Heroku
   4. HTML5
   5. CSS3
 
-
-
 ## Features
 
 ### Splash Page
@@ -97,5 +95,8 @@ A user can click on a profile to view the profile's demographic information.
 ![Xeno Search Results](https://github.com/Xeno-Life/Xeno/blob/master/Design%20Assets/artArtboard%203.png)
 
 #### P-Score
+
+The P-Score is a metric that indicates how accurately a particular search result fits a user's profile based on the 'relevance algorithm.' It is based on a few components, including demographics (location, age, etc), previously searched/clicked/liked links, as well as friends' activity. 
+
 
 #### Natural Language Algorithm Explanation
