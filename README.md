@@ -23,6 +23,7 @@ Metasearch allows for the possibility for users to enter and understand multiple
 ### TDD
 
   1. RSpec
+  2. Capybara
 
 ## Technologies
 
