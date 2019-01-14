@@ -4,7 +4,7 @@ Xeno is a political metasearch engine inspired by Google designed to burst filte
 
 # Why
 
-Algorithms control the information we consume in our digital lives. From personalized searches to tailored news feeds to targeted ads, the informational filter bubble which we all inhabit is ever-present and has broad implications. In many cases we consume starkly different information from different sources, making it difficult to converge on our collective reality. The term filter bubble was coined by Internet activist Eli Pariser in 2010 and has only become more and more relevant with time. How can we empower people to understand the nature of the bubbles in which they exist and to navigate information space in a free and unconstrained way? Our answer lies in a combination of metasearch and algorithmic transparency.  
+Algorithms control the information we consume in our digital lives. From personalized searches to tailored news feeds to targeted ads, the informational filter bubble which we all inhabit is ever-present and has broad implications. In many cases we consume starkly different information from different sources, making it difficult to converge on our collective reality. The term filter bubble was coined by Internet activist Eli Pariser in 2010 and has only become more and more relevant with time. How can we empower people to understand the nature of the bubbles in which they exist and to navigate information space in a free and unconstrained way? Our answer lies in a combination of metasearch, algorithmic transparency and lens modification.  
 
 # What
 
