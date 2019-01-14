@@ -4,7 +4,7 @@ Xeno is a political metasearch engine inspired by Google designed to burst filte
 
 # Why
 
-Algorithms control the information we consume in our digital lives. From personalized searches to tailored news feeds to targeted ads, the informational filter bubble which we all inhabit is ever-present and has broad implications. In many cases we consume starkly different information from different sources, making it difficult to converge on our collective reality. The term filter bubble was coined by Internet activist Eli Pariser in 2010 and has only become more and more relevant with time. How can we empower people to understand the nature of the bubbles in which they exist and to navigate information space in a free and unconstrained way? Our answer lies in a combination of metasearch, algorithmic transparency, and lens modification.  
+Algorithms control the information we consume in our digital lives. From personalized searches to tailored news feeds to targeted ads, the informational filter bubble which we all inhabit is ever-present and has broad implications. In many cases we consume starkly different information from different sources, making it difficult to converge on our collective reality. The term filter bubble was coined by Internet activist Eli Pariser in 2010 and has only become more and more relevant with time. How can we empower people to understand the nature of the bubbles in which they exist and to navigate information space in a free and unconstrained way? Our answer lies in a combination of metasearch and algorithmic transparency.  
 
 # What
 
@@ -57,7 +57,7 @@ Hosted on Heroku
 
 #### Search Profile Net
 
-This option is the default feature, where the user's search brings up a spectrum of profiles with their respective, curated results.
+This option is the default search feature, where the user's search brings up a spectrum of profiles with their respective, curated results.
 
 #### Straight to Search
 
@@ -75,13 +75,17 @@ This option allows a user to search from a profile randomly selected from the sp
 
 #### I'm Feeling Curious Button
 
+This option takes a user to a random result from a random profile.
+
 #### Settings
+
+The user can modify what their R-Score is comprised of (how heavily each component is weighted).
 
 ### Search Profile Vector Map
 
 ![Xeno Search Results](https://github.com/Xeno-Life/Xeno/blob/master/Design%20Assets/Artboard%202.png)
 
-#### Vector Map
+Upon entering a search query, a user will see a spectrum of result bubbles, each representing a different search profile.
 
 #### Preview on Hover
 
@@ -98,11 +102,12 @@ A user can click on a profile to view the profile's demographic information.
 
 ### Search Results Page
 
-![Xeno Search Results](https://github.com/Xeno-Life/Xeno/blob/master/Design%20Assets/Artboard%203.png)
+![Xeno Search Results](https://github.com/Xeno-Life/Xeno/blob/master/Design%20Assets/artArtboard%203.png)
 
 #### R-Score
 
-The R-Score is a metric that indicates how accurately a particular search result fits a user's profile based on the relevance algorithm. It is based on a few components, including demographics (location, age, etc), previously searched/clicked/liked links, as well as friends' activity.
-
+The R-Score is a metric that indicates how accurately a particular search result fits a user's profile based on the 'relevance algorithm.' It is based on a few components, including demographics (location, age, etc), previously searched/clicked/liked links, as well as friends' activity.
 
 #### Natural Language Algorithm Explanation
+
+Beneath the R-Score, Xeno lists the components that were factored into the algorithm's decision. They serve as insight to the user as to how the search-relevance algorithm is functioning.
