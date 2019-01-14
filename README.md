@@ -55,11 +55,11 @@ Hosted on Heroku
 
 ![Xeno Splash](https://github.com/Xeno-Life/Xeno/blob/master/Design%20Assets/Artboard%201.png)
 
-#### Search Profile Net
+#### Search Spectrum
 
 This option is the default search feature, where the user's search brings up a spectrum of profiles with their respective, curated results.
 
-#### Straight to Search
+#### Search
 
 This option allows the user to search in the traditional fashion.
 The only results that appear will be the ones curated to the user.
@@ -106,7 +106,7 @@ A user can click on a profile to view the profile's demographic information.
 
 #### R-Score
 
-The R-Score is a metric that indicates how accurately a particular search result fits a user's profile based on the relevance algorithm. It is based on a few components, including demographics (location, age, etc), previously searched/clicked/liked links, as well as friends' activities.
+The R-Score is a metric that indicates how accurately a particular search result fits a user's profile based on the relevance algorithm. It is based on a few components, including demographics (location, age, etc), previously searched/clicked/liked links, as well as friends' activity.
 
 #### Natural Language Algorithm Explanation
 
