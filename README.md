@@ -1,6 +1,6 @@
 # About
 
-Xeno is a metasearch engine inspired by Google designed to burst filter bubbles.
+Xeno is a political metasearch engine inspired by Google designed to burst filter bubbles.
 
 # Why
 
