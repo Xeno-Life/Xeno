@@ -4,13 +4,13 @@ Xeno is a political metasearch engine inspired by Google designed to burst filte
 
 # Why
 
-Algorithms control the information we consume in our digital lives.  From personalized search to tailored news feeds to targeted ads, the informational filter bubble in which we all exist is ever-present, and it has already brought about devastating societal consequences.  The term filter bubble was coined by Internet activist Eli Pariser in 2010 and it has only become more and more relevant with time.  How can we empower people to understand the very nature of the bubbles in which they exist and to navigate information space in a free and unconstrained way?  Our answer lies in a combination of algorithmic transparency and metasearch.  
+Algorithms control the information we consume in our digital lives. From personalized searches to tailored news feeds to targeted ads, the informational filter bubble which we all inhabit is ever-present and has broad implications. In many cases we consume starkly different information from different sources, making it difficult to converge on our collective reality. The term filter bubble was coined by Internet activist Eli Pariser in 2010 and has only become more and more relevant with time. How can we empower people to understand the nature of the bubbles in which they exist and to navigate information space in a free and unconstrained way? Our answer lies in a combination of metasearch and algorithmic transparency.  
 
 # What
 
-Algorithmic transparency is necessary to elucidate the methodologies that are used in search queries to personalize the relevance of a piece of information for users.  Companies like Google and Facebook do not implement algorithmic transparency for their users so users feel as though the information is coming from a magical omniscient black box.  In reality, algorithms and the people who write them are just as prone to flaws as any other system in the world.  Making users aware of relevance algorithms shows them that it's not magic that curates their information, but a system that has the potential to be flawed.
+Algorithmic transparency is necessary to elucidate the methodologies that are used in search queries to personalize the relevance of a piece of information for users. Companies like Google and Facebook do not implement algorithmic transparency for their users so users feel as though the information is coming from a magical omniscient black box. In reality, algorithms and the people who write them are just as prone to flaws as any other system in the world. Making users aware of relevance algorithms shows them that it's not magic that curates their information, but a system that has the potential to be flawed.
 
-Metasearch allows for the possibility for users to enter and understand multiple different types of filter bubbles.  If users can move freely from a right-wing filter bubble to a left-wing one then they can understand the larger picture of the flow of information online, which hopefully will lead to greater empathy and understanding between different people.
+Metasearch is a tool that takes input from a user and sends out multiple queries for different results. Our version of it this allows a users to enter a search and view a spectrum of various filter bubbles. If users can move freely from a right-wing filter bubble to a left-wing one (and everything in between) then they can understand the larger picture of the flow of information online, which we hope will lead to a greater sense of empathy and understanding between people of various political dispositions.
 
 # How
 
@@ -99,7 +99,7 @@ A user can click on a profile to view the profile's demographic information.
 
 #### P-Score
 
-The P-Score is a metric that indicates how accurately a particular search result fits a user's profile based on the 'relevance algorithm.' It is based on a few components, including demographics (location, age, etc), previously searched/clicked/liked links, as well as friends' activity. 
+The P-Score is a metric that indicates how accurately a particular search result fits a user's profile based on the 'relevance algorithm.' It is based on a few components, including demographics (location, age, etc), previously searched/clicked/liked links, as well as friends' activity.
 
 
 #### Natural Language Algorithm Explanation
