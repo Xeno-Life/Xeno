@@ -102,7 +102,7 @@ A user can click on a profile to view the profile's demographic information.
 
 ### Search Results Page
 
-![Xeno Search Results](https://github.com/Xeno-Life/Xeno/blob/master/Design%20Assets/artArtboard%203.png)
+![Xeno Search Results](https://github.com/Xeno-Life/Xeno/blob/master/Design%20Assets/Artboard%203.png)
 
 #### R-Score
 
