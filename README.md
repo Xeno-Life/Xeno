@@ -13,7 +13,7 @@ Metasearch is a tool that takes input from a user and sends out multiple queries
 Algorithmic transparency is the principle that the variables that influence the decisions made by algorithms should be visible to users.
 Companies like Google and Facebook do not implement algorithmic transparency, so users feel as though the information is coming from a magical omniscient black box. The problem with the current lack of transparency is that it often leaves users with the impression that the information they are seeing is objective. In reality, information is being curated to their personal experience by a watchful set of algorithms. Furthermore, algorithms and the people who write them are prone to flaws. Algorithmic transparency increases the probability the users will understand when flaws have been made. We implement it by providing a user with a Relevance Score (R-Score) for each search result, along with the components that determine that R-Score.
 
-Lens modification, by our definition, is the ability for a user to have control over their data stream. For one, a user can choose which profile 'lens' they wish to view information through. Additionally, a user can make adjustments to the R-Score for a given result, thus having more control over their own information bubbles. 
+Lens modification, by our definition, is the ability for a user to have control over their data stream. For one, a user can choose which profile 'lens' they wish to view information through. Additionally, a user can make adjustments to the R-Score for a given result, thus having more control over their own information bubbles.
 
 # How
 
@@ -98,7 +98,7 @@ A user can click on a profile to view the profile's demographic information.
 
 ### Search Results Page
 
-![Xeno Search Results](https://github.com/Xeno-Life/Xeno/blob/master/Design%20Assets/artArtboard%203.png)
+![Xeno Search Results](https://github.com/Xeno-Life/Xeno/blob/master/Design%20Assets/Artboard%203.png)
 
 #### R-Score
 
