@@ -22,12 +22,14 @@ Metasearch allows for the possibility for users to enter and understand multiple
 
 ### TDD
 
-  1. RSpec
-  2. Capybara
-
 ## Technologies
 
 Hosted on Heroku
+
+### Testing
+
+  1. RSpec
+  2. Capybara
 
 ### The Back-End
 
