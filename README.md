@@ -106,7 +106,7 @@ A user can click on a profile to view the profile's demographic information.
 
 #### R-Score
 
-The R-Score is a metric that indicates how accurately a particular search result fits a user's profile based on the 'relevance algorithm.' It is based on a few components, including demographics (location, age, etc), previously searched/clicked/liked links, as well as friends' activity.
+The R-Score is a metric that indicates how accurately a particular search result fits a user's profile based on the relevance algorithm. It is based on a few components, including demographics (location, age, etc), previously searched/clicked/liked links, as well as friends' activities.
 
 #### Natural Language Algorithm Explanation
 
