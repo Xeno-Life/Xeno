@@ -8,9 +8,12 @@ Algorithms control the information we consume in our digital lives. From persona
 
 # What
 
-Algorithmic transparency is necessary to elucidate the methodologies that are used in search queries to personalize the relevance of a piece of information for users. Companies like Google and Facebook do not implement algorithmic transparency for their users so users feel as though the information is coming from a magical omniscient black box. In reality, algorithms and the people who write them are just as prone to flaws as any other system in the world. Making users aware of relevance algorithms shows them that it's not magic that curates their information, but a system that has the potential to be flawed.
+Metasearch is a tool that takes input from a user and sends out multiple queries for different results. Our version of metasearch allows a user to enter a search query to view a spectrum of various filter bubbles. If a user can move freely from a right-wing filter bubble to a left-wing filter bubble (and everything in between) then they can understand the larger picture of the flow of information online, which we hope will lead to a greater sense of empathy and understanding between people of various political dispositions.
 
-Metasearch is a tool that takes input from a user and sends out multiple queries for different results. Our version of it this allows a users to enter a search and view a spectrum of various filter bubbles. If users can move freely from a right-wing filter bubble to a left-wing one (and everything in between) then they can understand the larger picture of the flow of information online, which we hope will lead to a greater sense of empathy and understanding between people of various political dispositions.
+Algorithmic transparency is the principle that the variables that influence the decisions made by algorithms should be visible to users.
+Companies like Google and Facebook do not implement algorithmic transparency, so users feel as though the information is coming from a magical omniscient black box. The problem with the current lack of transparency is that it often leaves users with the impression that the information they are seeing is objective. In reality, information is being curated to their personal experience by a watchful set of algorithms. Furthermore, algorithms and the people who write them are prone to flaws. Algorithmic transparency increases the probability the users will understand when flaws have been made. We implement it by providing a user with a Relevance Score (R-Score) for each search result, along with the components that determine that R-Score.
+
+Lens modification, by our definition, is the ability for a user to have control over their data stream. For one, a user can choose which profile 'lens' they wish to view information through. Additionally, a user can make adjustments to the R-Score for a given result, thus having more control over their own information bubbles. 
 
 # How
 
@@ -97,9 +100,9 @@ A user can click on a profile to view the profile's demographic information.
 
 ![Xeno Search Results](https://github.com/Xeno-Life/Xeno/blob/master/Design%20Assets/artArtboard%203.png)
 
-#### P-Score
+#### R-Score
 
-The P-Score is a metric that indicates how accurately a particular search result fits a user's profile based on the 'relevance algorithm.' It is based on a few components, including demographics (location, age, etc), previously searched/clicked/liked links, as well as friends' activity.
+The R-Score is a metric that indicates how accurately a particular search result fits a user's profile based on the 'relevance algorithm.' It is based on a few components, including demographics (location, age, etc), previously searched/clicked/liked links, as well as friends' activity.
 
 
 #### Natural Language Algorithm Explanation
