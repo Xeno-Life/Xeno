@@ -53,11 +53,21 @@ Hosted on Heroku
 
 #### Search Profile Net
 
+This option is the default feature, where the user's search brings up a spectrum of profiles with their respective, curated results.
+
 #### Straight to Search
+
+This option allows the user to search in the traditional fashion.
+The only results that appear will be the ones curated to the user.
 
 #### Neutral Search
 
+This option allows a user to search with a clean slate, without any demographic or search history information
+factored in.
+
 #### Random Profile Search
+
+This option allows a user to search from a profile randomly selected from the spectrum of possible profiles.
 
 #### I'm Feeling Curious Button
 
@@ -71,9 +81,16 @@ Hosted on Heroku
 
 #### Preview on Hover
 
+When a user searches via the Search Profile Net option, they will get a spectrum of 'bubbles,' each representing a different profile.
+A user can hover over any of these bubbles to bring up a preview of the results page for that profile.  
+
 #### Search Profile Favoriting
 
+A user can favorite profiles they come across if they wish to view results from those profiles later on.
+
 #### Search Profile Information
+
+A user can click on a profile to view the profile's demographic information.
 
 ### Search Results Page
 
