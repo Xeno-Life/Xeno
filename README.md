@@ -43,7 +43,7 @@ Hosted on Heroku
 
 ### The Front-End
 
-  1. DJavaScript/3
+  1. JavaScript/D3
   2. JavaScript/React
   3. JavaScript/Redux
   4. HTML5
