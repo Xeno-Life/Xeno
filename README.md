@@ -4,11 +4,11 @@ Xeno is a political metasearch engine inspired by Google designed to burst filte
 
 # Why
 
-Algorithms control the information we consume in our digital lives. From personalized searches to tailored news feeds to targeted ads, the informational filter bubble which we all inhabit is ever-present and has broad implications. In many cases we consume starkly different information from different sources, making it difficult to converge on our collective reality. The term filter bubble was coined by Internet activist Eli Pariser in 2010 and has only become more and more relevant with time. How can we empower people to understand the nature of the bubbles in which they exist and to navigate information space in a free and unconstrained way? Our answer lies in applying machine learning to a combination of metasearch, algorithmic transparency, and lens modification.  
+Algorithms control the information we consume in our digital lives. From personalized searches to tailored news feeds to targeted ads, the informational filter bubble which we all inhabit is ever-present and has broad implications. In many cases we consume starkly different information from different sources, making it difficult to converge on our collective reality. The term filter bubble was coined by Internet activist Eli Pariser in 2010 and has only become more and more relevant with time. How can we empower people to understand the nature of the bubbles in which they exist and to navigate information space in a free and unconstrained way? Our answer lies in a combination of metasearch, algorithmic transparency, and lens modification.  
 
 # What
 
-Metasearch is a tool that takes input from a user and sends out multiple queries for different results. Our version of metasearch allows a user to enter a search query to view a spectrum of various filter bubbles. If a user can move freely from a right-wing filter bubble to a left-wing filter bubble (and everything in between) then they can understand the larger picture of the flow of information online, which we hope will lead to a greater sense of empathy and understanding between people of various political dispositions.
+Metasearch is a tool that takes input from a user and uses supervised machine learning techniques to send out multiple queries for different results. Our version of metasearch allows a user to enter a search query to view a spectrum of various filter bubbles. If a user can move freely from a right-wing filter bubble to a left-wing filter bubble (and everything in between) then they can understand the larger picture of the flow of information online, which we hope will lead to a greater sense of empathy and understanding between people of various political dispositions.
 
 Algorithmic transparency is the principle that the variables that influence the decisions made by algorithms should be visible to users.
 Companies like Google and Facebook do not implement algorithmic transparency, so users feel as though the information is coming from a magical omniscient black box. The problem with the current lack of transparency is that it often leaves users with the impression that the information they are seeing is objective. In reality, information is being curated to their personal experience by a watchful set of algorithms. Furthermore, algorithms and the people who write them are prone to flaws. Algorithmic transparency increases the probability the users will understand when flaws have been made. We implement it by providing a user with a Relevance Score (R-Score) for each search result, along with the components that determine that R-Score.
@@ -37,17 +37,18 @@ Hosted on Heroku
 ### The Back-End
 
   1. Ruby on Rails
-  2. Ruby/Arachnid2
-  3. ElasticSearch
-  4. PostgreSQL
+  2. ElasticSearch
+  3. TensorFlow
+  4. Arachnid2 (web crawler)
+  5. PostgreSQL
 
 ### The Front-End
 
-  1. JavaScript/D3
-  2. JavaScript/React
-  3. JavaScript/Redux
-  4. HTML5
-  5. CSS3
+  1. React
+  2. Redux
+  3. D3
+  4. CSS3
+  5. HTML5
 
 ## Features
 
