@@ -36,7 +36,7 @@ Hosted on Heroku
 
 ### The Back-End
 
-  1. Ruby on Rails
+  1. Django/Python
   2. ElasticSearch
   3. TensorFlow
   4. Arachnid2 (web crawler)
