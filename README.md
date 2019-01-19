@@ -36,7 +36,7 @@ Hosted on Heroku
 
 ### The Back-End
 
-  1. Django 2.1.5 / Python 3.7.3
+  1. Django 2.1.5 / Python 3.7.2
   2. ElasticSearch Cloud Services
   3. TensorFlow
   4. Arachnid2 (web crawler)
